@@ -1,4 +1,5 @@
-# DVE
+# Data Visualization Exploration
+* Introduction to Data Visualisation Methods
 * Insurance solution 
 * Human Activity Recognition solution
 * IPL solution
