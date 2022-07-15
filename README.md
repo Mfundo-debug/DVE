@@ -1,5 +1,8 @@
 # DVE
-Insurance solution, Human Activity Recognition solution, IPL solution
-FInal assignment, with solution using python
-
-This includes more notebooks from dve82
+Insurance solution 
+Human Activity Recognition solution
+IPL solution
+Final assignment with solution using python
+More notebooks uploaded included
+* Audio Preprocessing
+* Geospatial
