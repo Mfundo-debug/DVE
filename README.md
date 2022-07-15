@@ -2,6 +2,7 @@
 * Insurance solution 
 * Human Activity Recognition solution
 * IPL solution
+* NYC Taxi EDA
 * Final Assignment EDA
 * Salinas Dataset EDA
 * Classification Models
