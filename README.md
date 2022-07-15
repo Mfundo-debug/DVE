@@ -6,6 +6,7 @@
 * NYC Taxi EDA
 * Final Assignment EDA
 * Salinas Dataset EDA
+* ARIMA Dataset EDA
 * Classification Models
 * More notebooks uploaded included
 * Time Series
